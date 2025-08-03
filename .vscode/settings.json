@@ -19,5 +19,10 @@
 		{
 			"mode": "auto"
 		}
-	]
+	],
+	"workbench.editor.autoLockGroups": {
+		"default": true
+	},
+	"workbench.editor.alwaysShowEditorActions": true,
+	"workbench.editor.centeredLayoutFixedWidth": true
 }
